@@ -1,2 +1,2 @@
-# Hass-UI-
-Mobile UI for Hass
+# Mobile-Hass-UI
+
